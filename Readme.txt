@@ -5,3 +5,5 @@ Example Matrix :
 |0 0 1 2|    |4|    |11|
 
 phi = [1,2,3,4] --> output
+
+change the no of elements as per your wish!
